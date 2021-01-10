@@ -1,2 +1,2 @@
 # AssertDb
-A library for simply running DB-related tests
+A library for simply running DB tests
